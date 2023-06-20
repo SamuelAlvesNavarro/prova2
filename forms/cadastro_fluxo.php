@@ -20,7 +20,7 @@
 
         <div>
             <label for="" class="form-label">Tipo: </label>
-            <input type="radio" name="tipo" value="entrada"> Entrada
+            <input type="radio" name="tipo" value="entrada" checked> Entrada
             <input type="radio" name="tipo" value="saida"> Saída
         </div>
 
